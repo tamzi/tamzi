@@ -1,12 +1,31 @@
-### Hi there 👋
+<a href="https://twitter.com/tamrefrank" target="_blank" rel="nofollow"><img align="right" alt="Frank tamre's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+
+## Yo! 👋 
 
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 I am Currently building cool stuff with code(C++, Dart and occassionaly Kotlin).
+- :writing_hand: Visit [me on my blog](https://tamrefrank.hashnode.dev/) to understand more.
+- :tv: watch me [on my channel](https://www.youtube.com/channel/UC10JamDyadvorFNn5Gr5W7A) and [on the convos](https://www.youtube.com/channel/UCxvALsLhxUzbI8oPHQjqTpw)
+- 😉 Fun facts: i love growing :herb: .I swim :swimming_man: , dive:diving_mask: and cook :man_cook:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning dart
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am a herbalist
+---
+<details open>
+   
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=ReadMe-MasterTemplates)](https://github.com/tamzi/ReadMe-MasterTemplates)
+  
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)](https://github.com/tamzi/jobfinder)
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/core_theming)
+
+</details>
+
+---
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "left">
+  
+  <img src = "https://github-readme-stats.vercel.app/api?username=tamzi&show_icons=true&theme=default&line_height=18">
+
+</p>
+</details>
