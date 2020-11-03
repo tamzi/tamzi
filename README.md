@@ -14,11 +14,3 @@
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/core_theming)
 
-
-
-<p align = "left">
-  
-  <img src = "https://github-readme-stats.vercel.app/api?username=tamzi&show_icons=true&theme=default&line_height=18">
-
-</p>
-
