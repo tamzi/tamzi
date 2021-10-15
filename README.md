@@ -9,8 +9,13 @@
 - 😉 Fun facts: i love growing (plants):herb: .I swim :swimming_man: , dive:diving_mask: and cook :man_cook:
    
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=ReadMe-MasterTemplates)](https://github.com/tamzi/ReadMe-MasterTemplates)
-  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)](https://github.com/tamzi/jobfinder)
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/core_theming)
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)](https://github.com/tamzi/jobfinder)
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/JetTheming)
+ 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)]https://github.com/tamzi/FlixCompanion)
+ 
 
