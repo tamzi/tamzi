@@ -10,12 +10,16 @@
    
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=ReadMe-MasterTemplates)](https://github.com/tamzi/ReadMe-MasterTemplates)
  
+ 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/core_theming)
+ 
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)](https://github.com/tamzi/jobfinder)
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=core_theming)](https://github.com/tamzi/JetTheming)
  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=jobfinder)]https://github.com/tamzi/FlixCompanion)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=JetTheming)](https://github.com/tamzi/JetTheming)
+ 
+ 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamzi&repo=FlixCompanion)](https://github.com/tamzi/FlixCompanion)
  
 
